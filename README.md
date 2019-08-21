@@ -1,7 +1,7 @@
 # Artifical-Haitian-Creole-Langauge-Database
 
 # Purpose
-Create artifical Haitian Creole sentences from the given sentences. Uses Facebook's InferSent to determine the credibility of the sentences instead of BLEU score
+Create artificial Haitian Creole sentences from given sentences. Uses Facebook's InferSent to determine the credibility of the sentences instead of BLEU score
 
 
 # Datasets
